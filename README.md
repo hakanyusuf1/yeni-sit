@@ -1,3 +1,3 @@
 # Here is my new Website 
 
-[https://www.hakanyusufbeyli.com.tr/]
+[Click me!](https://www.hakanyusufbeyli.com.tr/)
